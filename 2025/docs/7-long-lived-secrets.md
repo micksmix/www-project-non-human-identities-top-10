@@ -36,7 +36,7 @@ Long-lived Secrets refers to the use of sensitive NHIs such as API keys, tokens,
 * [Datadog State of the Cloud 2024](https://www.datadoghq.com/state-of-cloud-security/)
     * 46% of AWS orgs users use long-lived console credentials
     * 60% of keys across cloud providers have age > 1 year
-* [CSA NHI Report](hhttps://cloudsecurityalliance.org/artifacts/state-of-non-human-identity-security-survey-report) 
+* [CSA NHI Report](https://cloudsecurityalliance.org/artifacts/state-of-non-human-identity-security-survey-report) 
     * 45% of times lack of credential rotation were the cause for NHI-related security incidents (1/10)
     * 26% of organizations need management of secrets lifecycle as the most important capability of an NHI tool (1/16)
     * 51% of organizations have no formal process to offboard or revoke long-lived API keys
