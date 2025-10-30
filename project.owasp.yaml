@@ -14,20 +14,6 @@ leaders:
   - name: Roni Lichtman
     email: roni.lichtman@owasp.org
     github: ronilichtman
-  - name: Or Cohen
-    email: orcohen@paloaltonetworks.com
-    github: orarch
-  - name: Idan Basre
-    email: idanbasre@gmail.com
-    github: idanbasre
-  - name: Amir Benvenisti
-    email: amir.benvenisti@gmail.com
-  - name: Dor Dali
-    email: dordali@gmail.com
-    github: dordali-cyolo
-  - name: Jack Schofield
-    email: jack.schofield@snyk.io
-    github: jjmschofield
 level: 2
 name: OWASP Non-Human Identities Top 10
 pitch: The primary goal of the "OWASP Non-Human Identities Top 10" document is to provide assistance and education for organizations looking to secure the
@@ -39,7 +25,7 @@ repositories:
     description: OWASP Non-Human Identities Top 10
 tags:
   - non-human-identity
-  - custom-tag-1
-  - custom-tag-2
+  - non-human-identities-top-10
+  - owasp-top-10
 type: documentation
 website: https://owasp.org/www-project-non-human-identities-top-10
