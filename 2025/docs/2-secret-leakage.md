@@ -29,7 +29,7 @@ Exposed secrets can lead to significant security risks. If a secret is leaked, w
    - Ensure secrets are not hardcoded in source code, configuration files, or scripts.
 
 * **Automate Secret Detection**
-   - Integrate secret scanning tools (e.g., GitHub Secret Scanning, TruffleHog, Gitleaks) into CI/CD pipelines to detect and prevent secrets from being committed to repositories.
+   - Integrate secret scanning tools (e.g., GitHub Secret Scanning, TruffleHog, Gitleaks, Kingfisher) into CI/CD pipelines to detect and prevent secrets from being committed to repositories.
 
 * **Restrict Secret Scope and Permissions**
    - Follow the principle of least privilege by restricting access to secrets to only the applications and services that require them.
